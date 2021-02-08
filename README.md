@@ -1,3 +1,4 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/7ddfb37582dc4efca267efd45c9818ab)](https://app.codacy.com/gh/thisischandanmishra/flight-information?utm_source=github.com&utm_medium=referral&utm_content=thisischandanmishra/flight-information&utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.com/thisischandanmishra/flight-information.svg?branch=master)](https://travis-ci.com/thisischandanmishra/flight-information)
 [![CodeCov](https://codecov.io/gh/thisischandanmishra/flight-information/branch/master/graph/badge.svg?token=DDTDJ8EYDC)](https://codecov.io/gh/thisischandanmishra/flight-information)
 
