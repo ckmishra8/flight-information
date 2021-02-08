@@ -9,14 +9,15 @@ python: 3.7
 
 before_install:
   - python --version
-  - pip install -U pip
-  - pip install -U pytest
-  - pip install codecov
+  - pip3 install -U pip
+  - pip3 install -U pytest
+  - pip3 install codecov
+  - pip3 install -r requirements.txt
 
 # Install the codecov pip dependency
 install:
-  - pip install codecov
-  - pip install coverage
+  - pip3 install codecov
+  - pip3 install coverage
 
 # Run the unit test
 script:
