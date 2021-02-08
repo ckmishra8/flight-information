@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.com/thisischandanmishra/flight-information.svg?branch=master)](https://travis-ci.com/thisischandanmishra/flight-information)
+
 # Flight Information
 This project provides few APIs to manipulate flight information. For fetching any flight related data user needs to have valid API token.
 
