@@ -1,0 +1,8 @@
+Flask
+Flask-HTTPAuth
+Flask-RESTful
+Flask-SQLAlchemy
+Flask-Testing
+itsdangerous
+six
+SQLAlchemy
